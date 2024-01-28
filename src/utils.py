@@ -77,6 +77,7 @@ categories = [
     "Phantom Muspah",
     "Sarachnis",
     "Scorpia",
+    "Scurrius",
     "Skotizo",
     "Spindel",
     "Tempoross",
