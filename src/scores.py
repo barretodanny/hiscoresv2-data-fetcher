@@ -17,6 +17,8 @@ def fetchUserScores(endpoint, username):
 
 # save each score attached to a user, the user's gamemode, and the category
 def saveUserScores(endpoint, username, gamemode, scores):
+    if not scores:
+        return
     for index, score in enumerate(scores.split("\n")):
         if (not score):
             break
