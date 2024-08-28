@@ -43,6 +43,7 @@ categories = [
     "Colosseum Glory",
     "Abyssal Sire",
     "Alchemical Hydra",
+    "Araxxor",
     "Artio",
     "Barrows Chests",
     "Bryophyta",
